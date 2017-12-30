@@ -1,9 +1,24 @@
-# RESTful Lenny NodeJS Wrapper
+# RESTful Lenny NodeJS Wrapper [![Build Status](https://travis-ci.org/Casper-Oakley/restful-lenny-nodejs-wrapper.svg?branch=master)](https://travis-ci.org/Casper-Oakley/restful-lenny-nodejs-wrapper)
 Provides a promise interface to [RESTful-lenny](https://lenny.today) bringing ( ͡° ͜ʖ ͡°) to your NodeJS projects!
 
 ## Getting Started
 
-Clone the repo into your project's node_modules folder and include the library as you would any other NodeJS NPM
+Clone the repo into your project's node_modules folder and include the library as you would any other NodeJS NPM.
+
+### Usage
+
+To use:
+  - require the module `const lenny = require('restful-lenny-nodejs-wrapper');`
+  - call either `lenny.lenny()` to request a lenny or `lenny.random()` to request a random lenny
+
+It's that simple!
+
+Both calls optionally take in specific body parts, as well as a count:
+  - `lenny.lenny(null, 10)` generates ten lennies
+  - `lenny.lenny({ ears: '<' })` generates < ͡° ͜ʖ ͡°<
+
+The full list of body parts are available can be found on the [RESTful lenny](https://github.com/lennytoday) github page
+
 
 ### Prerequisites
 
