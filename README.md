@@ -1,4 +1,4 @@
-# RESTful Lenny NodeJS Wrapper [![Build Status](https://travis-ci.org/Casper-Oakley/restful-lenny-nodejs-wrapper.svg?branch=master)](https://travis-ci.org/Casper-Oakley/restful-lenny-nodejs-wrapper)
+# RESTful Lenny NodeJS Wrapper [![Build Status](https://travis-ci.org/Casper-Oakley/lenny-node-sdk.svg?branch=master)](https://travis-ci.org/Casper-Oakley/lenny-node-sdk)
 Provides a promise interface to [RESTful-lenny](https://lenny.today) bringing ( ͡° ͜ʖ ͡°) to your NodeJS projects!
 
 ## Getting Started
@@ -8,7 +8,7 @@ Clone the repo into your project's node_modules folder and include the library a
 ### Usage
 
 To use:
-  - require the module `const lenny = require('restful-lenny-nodejs-wrapper');`
+  - require the module `const lenny = require('lenny-node-sdk');`
   - call either `lenny.lenny()` to request a lenny or `lenny.random()`
   - A promise will be returned containing the lenny requested, or throwing a rejection
 

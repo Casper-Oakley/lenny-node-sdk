@@ -1,14 +1,14 @@
 {
-  "name": "restful-lenny-nodejs-wrapper",
+  "name": "lenny-node-sdk",
   "version": "1.0.1",
-  "description": "A wrapper to the RESTful lenny API (https://lenny.today)",
+  "description": "An SDK for the RESTful lenny API (https://lenny.today)",
   "main": "app.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Casper-Oakley/restful-lenny-nodejs-wrapper.git"
+    "url": "git+https://github.com/Casper-Oakley/lenny-node-sdk.git"
   },
   "keywords": [
     "lenny",
@@ -19,9 +19,9 @@
   "author": "Casper Oakley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Casper-Oakley/restful-lenny-nodejs-wrapper/issues"
+    "url": "https://github.com/Casper-Oakley/lenny-node-sdk/issues"
   },
-  "homepage": "https://github.com/Casper-Oakley/restful-lenny-nodejs-wrapper#readme",
+  "homepage": "https://github.com/Casper-Oakley/lenny-node-sdk#readme",
   "dependencies": {
     "request": "^2.83.0",
     "request-promise-native": "^1.0.5"
