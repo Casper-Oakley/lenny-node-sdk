@@ -9,7 +9,8 @@ Clone the repo into your project's node_modules folder and include the library a
 
 To use:
   - require the module `const lenny = require('restful-lenny-nodejs-wrapper');`
-  - call either `lenny.lenny()` to request a lenny or `lenny.random()` to request a random lenny
+  - call either `lenny.lenny()` to request a lenny or `lenny.random()`
+  - A promise will be returned containing the lenny requested, or throwing a rejection
 
 It's that simple!
 
