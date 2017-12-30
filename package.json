@@ -1,6 +1,6 @@
 {
   "name": "lenny-node-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An SDK for the RESTful lenny API (https://lenny.today)",
   "main": "app.js",
   "scripts": {
