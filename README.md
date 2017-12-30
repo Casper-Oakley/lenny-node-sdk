@@ -1,9 +1,9 @@
-# RESTful Lenny NodeJS Wrapper [![Build Status](https://travis-ci.org/Casper-Oakley/lenny-node-sdk.svg?branch=master)](https://travis-ci.org/Casper-Oakley/lenny-node-sdk)
+# RESTful Lenny NodeJS SDK [![Build Status](https://travis-ci.org/Casper-Oakley/lenny-node-sdk.svg?branch=master)](https://travis-ci.org/Casper-Oakley/lenny-node-sdk)
 Provides a promise interface to [RESTful-lenny](https://lenny.today) bringing ( ͡° ͜ʖ ͡°) to your NodeJS projects!
 
 ## Getting Started
 
-Clone the repo into your project's node_modules folder and include the library as you would any other NodeJS NPM.
+Run `npm install lenny-node-sdk` in the root folder of your project.
 
 ### Usage
 
