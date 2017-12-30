@@ -1,0 +1,32 @@
+{
+  "name": "restful-lenny-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper to the RESTful lenny API (https://lenny.today)",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casper-Oakley/restful-lenny-nodejs-wrapper.git"
+  },
+  "keywords": [
+    "lenny",
+    "rest",
+    "wrapper",
+    "api"
+  ],
+  "author": "Casper Oakley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Casper-Oakley/restful-lenny-nodejs-wrapper/issues"
+  },
+  "homepage": "https://github.com/Casper-Oakley/restful-lenny-nodejs-wrapper#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
