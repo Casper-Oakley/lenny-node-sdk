@@ -1,5 +1,5 @@
 {
-  "name": "restful-lenny-wrapper",
+  "name": "restful-lenny-nodejs-wrapper",
   "version": "1.0.0",
   "description": "A wrapper to the RESTful lenny API (https://lenny.today)",
   "main": "app.js",
