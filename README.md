@@ -1,5 +1,5 @@
 # RESTful Lenny NodeJS Wrapper
-Provides a promise interface to (RESTful-lanny)[https://lenny.today] bringing ( ͡° ͜ʖ ͡°) to your NodeJS projects!
+Provides a promise interface to [RESTful-lenny](https://lenny.today) bringing ( ͡° ͜ʖ ͡°) to your NodeJS projects!
 
 ## Getting Started
 
