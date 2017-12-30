@@ -24,7 +24,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* **Casper Oakley** - [PurpleBooth](https://github.com/casper-oakley)
+* **Casper Oakley** - [Github](https://github.com/casper-oakley)
 
 ## License
 
