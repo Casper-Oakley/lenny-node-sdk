@@ -1,4 +1,4 @@
-# RESTful Lenny NodeJS SDK [![Build Status](https://travis-ci.org/Casper-Oakley/lenny-node-sdk.svg?branch=master)](https://travis-ci.org/Casper-Oakley/lenny-node-sdk)
+# RESTful Lenny NodeJS SDK [![Build Status](https://travis-ci.org/LennyToday/lenny-node-sdk.svg?branch=master)](https://travis-ci.org/LennyToday/lenny-node-sdk)
 Provides a promise interface to [RESTful-lenny](https://lenny.today) bringing ( ͡° ͜ʖ ͡°) to your NodeJS projects!
 
 ## Getting Started
